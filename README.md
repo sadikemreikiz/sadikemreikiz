@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sadik Emre Ikiz
 
-<!--
-**sadikemreikiz/sadikemreikiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer based in Berlin, focused on backend and full-stack development with C#/.NET, React, and TypeScript.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: C#, ASP.NET Core, .NET, REST APIs
+- Frontend: React, TypeScript, Office.js
+- Data & Integrations: Microsoft SQL Server, Entity Framework Core, Dapper, Microsoft Graph
+- Engineering: Docker, Git, GitLab, automated testing
+- Academic Work: Python, machine learning, NLP, and computer vision
+
+I hold an M.Sc. in Software Engineering. Most recently, I designed and developed an Outlook email archiving add-in end to end, covering full-stack implementation, enterprise integrations, reliability, automated testing, and production deployment preparation.
+
+[LinkedIn](https://www.linkedin.com/in/sadikemreikiz/)
