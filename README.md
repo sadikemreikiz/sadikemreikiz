@@ -1,15 +1,13 @@
 # Sadik Emre Ikiz
 
-Software Developer based in Berlin, focused on backend and full-stack development with C#/.NET, React, and TypeScript.
+Software Developer based in Berlin, working with C#/.NET, React, TypeScript, and Python. I hold an M.Sc. in Software Engineering and have an interest in applied AI.
 
-## Technical Focus
+## Selected work
 
-- Backend: C#, ASP.NET Core, .NET, REST APIs
-- Frontend: React, TypeScript, Office.js
-- Data & Integrations: Microsoft SQL Server, Entity Framework Core, Dapper, Microsoft Graph
-- Engineering: Docker, Git, GitLab, automated testing
-- Academic Work: Python, machine learning, NLP, and computer vision
+**Auvesta Edelmetalle AG** — Developed an internal Outlook email archiving add-in using React, TypeScript, Office.js, and ASP.NET Core. Integrated Microsoft Graph and SQL Server, wrote automated tests, and prepared deployment configurations that were tested locally.
 
-I hold an M.Sc. in Software Engineering. Most recently, I designed and developed an Outlook email archiving add-in end to end, covering full-stack implementation, enterprise integrations, reliability, automated testing, and production deployment preparation.
+**[Trysa direct booking](https://github.com/sadikemreikiz/trysa-direct-booking)** — Built and run a [live booking website](https://trysacamping.com) and staff panel for my family's guesthouse using Next.js, TypeScript, and PostgreSQL. The system includes Airbnb calendar sync and an AI concierge that uses site content and checks availability through a tool.
+
+**Master's thesis: financial document fraud screening** — Built an academic Python prototype combining OCR-based text analysis with a pretrained ResNet18 model in PyTorch. Evaluated different approaches and added rule-based explanations and Grad-CAM visualizations.
 
 [LinkedIn](https://www.linkedin.com/in/sadikemreikiz/)
