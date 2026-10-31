@@ -8,6 +8,6 @@ Software developer in Berlin, focused on applied AI. I build machine-learning an
 
 **Auvesta Edelmetalle AG** — Developed an internal Outlook email archiving add-in using React, TypeScript, Office.js, and ASP.NET Core. Integrated Microsoft Graph and SQL Server, wrote automated tests, and prepared deployment configurations that were tested locally.
 
-**[Trysa direct booking](https://github.com/sadikemreikiz/trysa-direct-booking)** — Built and run a [live booking website](https://trysacamping.com) and staff panel for my family's guesthouse with Next.js, TypeScript and PostgreSQL, including Airbnb calendar sync and an AI concierge on Claude Haiku 4.5 that answers guests from the site's content and checks availability through a tool.
+**[Trysa direct booking](https://github.com/sadikemreikiz/trysa-direct-booking)** — Built and run a [live booking website](https://trysacamping.com) and staff panel for my family's guesthouse with Next.js, TypeScript and PostgreSQL, including Airbnb calendar sync and an AI concierge on Claude Haiku 5.5 that answers guests from the site's content and checks availability through a tool.
 
 [LinkedIn](https://www.linkedin.com/in/sadikemreikiz/)
