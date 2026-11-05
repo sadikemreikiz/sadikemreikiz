@@ -48,6 +48,6 @@ Developed backend features and REST APIs with Python, Django and Django REST Fra
 
 ## Contact
 
-Based in Berlin · Open to AI engineering, backend and full-stack development opportunities
+Based in Berlin · Open to AI Engineer and software engineering roles on AI products in Germany
 
 [LinkedIn](https://www.linkedin.com/in/sadikemreikiz/) · [Email](mailto:sadikemreikiz90@gmail.com)
